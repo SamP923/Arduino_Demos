@@ -7,8 +7,7 @@ One LED will light up for one second, then go out for one second. This process w
 
 
 ## Flowing LED
-![Flowing LED Diagram](/flowingLEDdemo/flowingLEDdemo_5led.png)
-
+![Flowing LED Diagram](/flowingLEDdemo/flowingLEDdemo_6led.png)
 Five LEDs will light up one by one from left to right, and then go out one by one from right to left.
 After that, the LEDs will light up one by one from right to left, and then go out one by one from left to right.
 This process will repeat indefinitely.
