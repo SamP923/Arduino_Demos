@@ -2,7 +2,7 @@
  Arduino demo code and diagrams for 2019-2020 CCA Girls Who Code Lecture Series
 
 
-##Blinking LED Workshop
+## Blinking LED Workshop
 
 ### Blinking LED
 ![Blinking LED Diagram](/LED_Workshop/blinkingLEDdemo/blinkingLEDdemo_bb.png)
@@ -28,16 +28,17 @@ This process will repeat indefinitely.
 
 
 
-##Intro to LCD Workshop
+## Intro to LCD Workshop
 
-###Intro LCD
+### Intro LCD (LCDdemo and LCDsunfounderdemo)
 ![Scroll LCD Diagram](/LCD_Workshop/LCDSFscrolldemo/sunfounderlcd_bb.png)
 
-LCD Screen will display "hello, world!" on the top row and the time since reset on the bottom row. This exercise uses the Sunfounder I2C LCD1602.
+LCD Screen will display "hello, world!" on the top row and the time since reset on the bottom row. The LCDsunfounderdemo uses the Sunfounder I2C LCD1602.
 Code adapted from: https://www.arduino.cc/en/Tutorial/HelloWorld
 
-###Scroll LCD
+### Scroll LCD
 LCD screen will scroll the "hello, world!" array across the screen. This exercise uses the Sunfounder I2C LCD1602.
 Adapted from: https://www.sunfounder.com/learn/sensor-kit-v2-0-for-arduino/lesson-1-display-by-i2c-lcd1602-sensor-kit-v2-0-for-arduino.html
 
-
+### GWC LCD
+LCD Screen will display each character of "girls who code wuz here" on a delay followed by individually delayed "..."s. This exercise uses an LCD with 16 pinheads soldered to the LCD.
