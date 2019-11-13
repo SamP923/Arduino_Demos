@@ -6,10 +6,12 @@
 
 ### Blinking LED
 ![Blinking LED Diagram](/ImagesDiagrams/blinkingLEDdemo_bb.png)
+
 One LED will light up for one second, then go out for one second. This process will repeat indefinitely.
 
 ### Flowing LED
 ![Flowing LED Diagram](/ImagesDiagrams/flowingLEDdemo_6led.png)
+
 Six LEDs will light up one by one from left to right, and then go out one by one from right to left.
 After that, the LEDs will light up one by one from right to left, and then go out one by one from left to right.
 This process will repeat indefinitely.
@@ -30,6 +32,7 @@ This process will repeat indefinitely.
 
 ### Intro LCD (LCDdemo and LCDsunfounderdemo)
 ![Scroll LCD Diagram](/ImagesDiagrams/sunfounderlcd_bb.png)
+
 LCD Screen will display "hello, world!" on the top row and the time since reset on the bottom row. The LCDsunfounderdemo uses the Sunfounder I2C LCD1602.
 Code adapted from: https://www.arduino.cc/en/Tutorial/HelloWorld
 
