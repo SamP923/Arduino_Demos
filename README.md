@@ -45,4 +45,4 @@ Adapted from: https://www.sunfounder.com/learn/sensor-kit-v2-0-for-arduino/lesso
 LCD Screen will display each character of "girls who code wuz here" on a delay followed by individually delayed "..."s. This exercise uses an LCD with 16 pinheads soldered to the LCD.
 
 
-![Regular LCD](/ImagesDiagrams/IMG_LCD.jpg) ![Sunfounder LCD](/ImagesDiagrams/IMG_LCDSF.jpg)
+![Regular LCD](/ImagesDiagrams/IMG_LCD.JPG) ![Sunfounder LCD](/ImagesDiagrams/IMG_LCDSF.JPG)
