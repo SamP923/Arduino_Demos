@@ -1,5 +1,10 @@
-# Arduino_Demos
- Arduino demo code and diagrams for 2019-2020 CCA Girls Who Code Lecture Series
+# Arduino Mini-Projects
+ Arduino code and Fritzing diagrams for four mini-projects. Includes examples of code variations.
+ 1. Blinking LED: single LED circuit
+ 2. Flowing LED: six LED circuit
+ 3. Simple LCD: LCD introduction using the Sunfounder LCDs that only requires four wires
+ 4. LCD: normal LCD setup using an external potentiometer and many more wires 
+ Used for the 2019-2020 [CCA Girls Who Code](https://www.ccagirlswhocode.weebly.com) Monthly Lecture Series.
 
 
 ## Blinking LED Workshop
