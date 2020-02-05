@@ -3,10 +3,10 @@
  1. Blinking LED: single LED circuit
  2. Flowing LED: six LED circuit
  3. Simple LCD: LCD introduction using the Sunfounder LCDs that only requires four wires
- 4. LCD: normal LCD setup using an external potentiometer and many more wires 
+ 4. LCD: normal LCD setup using an external potentiometer and many more wires <br>
  Used for the 2019-2020 [CCA Girls Who Code](https://www.ccagirlswhocode.weebly.com) Monthly Lecture Series.
 
-
+<br><br><br>
 ## Blinking LED Workshop
 
 ### Blinking LED
