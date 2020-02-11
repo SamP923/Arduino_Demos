@@ -11,8 +11,6 @@
  4. LCD: normal LCD setup using an external potentiometer and many more wires 
     - LCD Screen will display each character of "girls who code wuz here" on a delay followed by individually delayed "..."s. This exercise uses an LCD with 16 pinheads soldered to the LCD.
  <br>
- 
- Used for the 2019-2020 [CCA Girls Who Code](https://www.ccagirlswhocode.weebly.com) Monthly Lecture Series.<br>
 
 <img align = "left" src="https://raw.githubusercontent.com/SamP923/Arduino_Mini-Projects/master/ImagesDiagrams/IMG_LCD.JPG" height = "250"><img src="https://raw.githubusercontent.com/SamP923/Arduino_Mini-Projects/master/ImagesDiagrams/IMG_LCDSF.JPG" height = "250">
  
@@ -21,16 +19,18 @@
 <img align = "center" src="https://raw.githubusercontent.com/SamP923/Arduino_Mini-Projects/master/ImagesDiagrams/LCDdemo.png" width = "400">
 
 <br><br><br>
-## Blinking LED Workshop Extra Code Variants
-### Line LED
-Each LED will light up then turn off in a line from left to right, then do the same pattern from right to left. 
-This process will repeat indefinitely.
+### Blinking LED Workshop Extra Code Variants
+**Line LED:** Each LED will light up then turn off in a line from left to right, then do the same pattern from right to left. This process will repeat indefinitely.
+**Opposite LED:** LEDs will alternate between on and off, with odd pins in sync and even pins in sync. This process will repeat indefinitely.
 
-### Opposite LED
-LEDs will alternate between on and off, with odd pins in sync and even pins in sync.
-This process will repeat indefinitely.
-
-## Intro to LCD Workshop Extra Code Variants
-### Scroll LCD
-LCD screen will scroll the "hello, world!" array across the screen. This exercise uses the Sunfounder I2C LCD1602.
+### Intro to LCD Workshop Extra Code Variants
+**Scroll LCD:** LCD screen will scroll the "hello, world!" array across the screen. This exercise uses the Sunfounder I2C LCD1602.
 Code adapted from: https://www.sunfounder.com/learn/sensor-kit-v2-0-for-arduino/lesson-1-display-by-i2c-lcd1602-sensor-kit-v2-0-for-arduino.html
+
+## Planned expansions
+In the next semester, I would like to develop more advanced projects that incorporate sensors. Some examples include a range finder that use an ultrasonic sensor to measure distance, a small manipulator controlled by a servo, or creating a clock with an LCD.
+
+<br><br>
+Used for the 2019-2020 [CCA Girls Who Code](https://www.ccagirlswhocode.weebly.com) Monthly Lecture Series.<br>
+ * [LED Workshop Slides](https://docs.google.com/presentation/d/1f78FB69Wp2UYhNoLs-WAGATUB4m4Cev23VrTCnaIfyY/edit#slide=id.g6fc2aea823_2_0)
+ * [LCD Workshop Slides](https://docs.google.com/presentation/d/1A9UaSwzBuF8--j-NC1oANygXxgIz6A3Am-L7To2hbxg/edit?usp=sharing)
