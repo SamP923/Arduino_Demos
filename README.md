@@ -20,7 +20,7 @@
 
 <br><br><br>
 ### Blinking LED Workshop Extra Code Variants
-**Line LED:** Each LED will light up then turn off in a line from left to right, then do the same pattern from right to left. This process will repeat indefinitely.
+**Line LED:** Each LED will light up then turn off in a line from left to right, then do the same pattern from right to left. This process will repeat indefinitely.<br>
 **Opposite LED:** LEDs will alternate between on and off, with odd pins in sync and even pins in sync. This process will repeat indefinitely.
 
 ### Intro to LCD Workshop Extra Code Variants
